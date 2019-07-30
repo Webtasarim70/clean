@@ -1,15 +1,15 @@
-title:              Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Blog 
+email:              bilgi@eekinci.com
+description:        Not Defterim
+author:             eekinci.com
 baseurl:            "/clean"
 url:                "http://eekinci.com"
 
 # Social Profiles
-twitter_username:   
-github_username:    
-facebook_username:  
-linkedin_username:
+twitter_username:   emrex
+github_username:    webtasarim70
+facebook_username:  eekincicom
+linkedin_username:  eekincicom
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
