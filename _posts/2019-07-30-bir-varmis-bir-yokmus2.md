@@ -15,7 +15,7 @@ background: '/img/posts/07.jpg'
 ## Fazlasıyla eksiğiyle KDV yasa Tasarısı
 Katma Değer Vergisi Kanunu’nda değişiklikler yapılmasını öngören tasarı TBMM Plan ve Bütçe Komisyonu'nda görüşülmeye başlandı. Yirmi beş maddeden oluşan tasarı önemli düzenlemeler içeriyor. Sadece devreden katma değer vergisinin iadesi düzenlemesi bile gerçek bir reform niteliğinde. Tasarı, bu düzenleme yanında, birçok sorunu gideren, yatırımı ve üretimi destekleyen, gönüllü uyuma katkı yapan, katma değer vergisinin daha sağlıklı işlemesini sağlayacak düzenlemeler içeriyor. Eksikleri olabilir belki ama geneli itibariyle beklentileri fazlasıyla karşılıyor.
 
-**Devreden KDV’nin iadesi olanaklı hale getiriliyor**
+** Devreden KDV’nin iadesi olanaklı hale getiriliyor **
 
 Tasarıda özetle;
 
