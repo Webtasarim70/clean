@@ -2,7 +2,7 @@
 layout: post
 title: "Bir varmış bir yokmuş"
 subtitle: "Deneme Amaçlı yazılmış Yazı"
-date: 2019-07-30 13:55:00 -0400
+date: 2019-07-30 16:00:00 -0400
 background: '/img/posts/07.jpg'
 ---
 
